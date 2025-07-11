@@ -1,7 +1,7 @@
-## Hi there 👋
-##daner guzman olivares 
-##ing.informatica
-##si lo imaginas puedes programarlo 
+## Hola que tal 👋
+daner guzman olivares 
+soy estudiante de ing.informatica
+si lo imaginas puedes programarlo 
 
 <!--
 **Daner563/Daner563** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
